@@ -1,5 +1,6 @@
 from game.lib import *
 
+# Programa principal
 inicio()
 dica = dica()
 palavra = palavraChave(dica)
