@@ -1,4 +1,4 @@
-from game.lib import *
+from game.funçoes import *
 
 # Programa principal
 inicio()
